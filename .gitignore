@@ -1,0 +1,27 @@
+# Generated Minecraft assets (rebuilt by Build-LushfoilCraft.ps1 from your own 1.21.1 jar; never committed)
+textures/*.png
+!textures/.gitkeep
+Scripts/blocks.lua
+Scripts/models.lua
+Scripts/items.lua
+
+# Python / C# build artefacts
+tools/__pycache__/
+__pycache__/
+*.pyc
+LushfoilGen.exe
+IconPatch.exe
+
+# Game copies, engine files, saves, logs (never committed - this repo is the mod only)
+LushfoilSim/
+Engine/
+*.ucas
+*.pak
+*.utoc
+*.sav
+*.log
+*.exe
+Manifest_*.txt
+ue4ss/
+Mods/
+saves/
