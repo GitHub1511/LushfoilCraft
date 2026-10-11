@@ -1,8 +1,3 @@
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/c37cb8bd-f74f-460f-96d0-4b5d25750a67" controls muted autoplay loop playsinline width="100%"></video>
-</p>
-<p align="center"><sub>Plays muted - click the speaker icon in the player to turn the sound on. [Full-quality version](docs/lushfoilcraft-demo.mp4).</sub></p>
-
 # LushfoilCraft
 
 Created by **Shivin Singh** (& Claude Sonnet 5.5). Built from Lushfoil Photography Sim (Matt Newell) and Minecraft Java Edition 1.21.1 (Mojang Studios) - see `CREDITS.md`.
