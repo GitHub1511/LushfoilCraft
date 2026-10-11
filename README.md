@@ -1,7 +1,7 @@
 <p align="center">
-  <video src="https://github.com/GitHub1511/LushfoilCraft/raw/main/docs/lushfoilcraft-demo.mp4" controls muted autoplay loop playsinline width="100%"></video>
+  <video src="https://github.com/user-attachments/assets/c37cb8bd-f74f-460f-96d0-4b5d25750a67" controls muted autoplay loop playsinline width="100%"></video>
 </p>
-<p align="center"><sub>Plays muted - click the speaker icon in the player to turn the sound on.</sub></p>
+<p align="center"><sub>Plays muted - click the speaker icon in the player to turn the sound on. [Full-quality version](docs/lushfoilcraft-demo.mp4).</sub></p>
 
 # LushfoilCraft
 
